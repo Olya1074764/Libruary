@@ -1,0 +1,14 @@
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.csprojAssemblyReference.cache
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.Enter.resources
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.Properties.Resources.resources
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.csproj.GenerateResource.cache
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.csproj.CoreCompileInputs.cache
+D:\Olya\Предметы\ТРПО\Библиотека\bin\Debug\Библиотека.exe.config
+D:\Olya\Предметы\ТРПО\Библиотека\bin\Debug\Библиотека.exe
+D:\Olya\Предметы\ТРПО\Библиотека\bin\Debug\Библиотека.pdb
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.exe
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.pdb
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.Operations.resources
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.Autors.resources
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.Books.resources
+D:\Olya\Предметы\ТРПО\Библиотека\obj\Debug\Библиотека.Readers.resources
